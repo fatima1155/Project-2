@@ -1,0 +1,30 @@
+.heading{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+    background-color: aqua;
+
+}
+.cge{height: 100px;
+      border:6px solid red;
+     background-color: lightcoral;
+     background-image: url("./bee-flower-27533578.webp");
+    }
+
+     fieldset{
+        background-image:url("./bee-flower-27533578.webp");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border: 2px solid #2980B9;
+        border-radius: 30px;
+       
+     }  
+     .fieldset{
+        background-image: url("wall.jpg");
+        height: 500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: #2980B9;
+        border-radius: 40px;
+     }
